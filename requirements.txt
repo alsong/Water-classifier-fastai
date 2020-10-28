@@ -2,8 +2,8 @@
 Flask
 gunicorn
 numpy
-torch
-torchvision
+torch==1.7.0+cpu
+torchvision==0.8.1+cpu
 fastai==1.0.24
 
 
